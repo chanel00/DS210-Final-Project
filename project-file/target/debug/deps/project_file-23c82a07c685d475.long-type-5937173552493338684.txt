@@ -1,1 +1,0 @@
-ComposedElement<(f64, f64), _, plotters::element::Circle<(i32, i32), {integer}>, plotters::element::Text<'_, (i32, i32), std::string::String>>
